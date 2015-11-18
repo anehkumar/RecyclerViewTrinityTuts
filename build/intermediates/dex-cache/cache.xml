@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\ZAL-05W\Desktop\RecyclerViewTrinity\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="C:\Users\ZAL-05W\Desktop\RecyclerViewTrinity\app\build\intermediates\pre-dexed\debug\classes-9b3709b8f4ca7c072b4b4c3537db120af3d9a064.jar" />
+    </item>
+    <item
+        jar="C:\Users\ZAL-05W\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.0\7ff0e000d1e27e356567f56c92af3b8ab912636f\picasso-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7ff0e000d1e27e356567f56c92af3b8ab912636f">
+        <dex dex="C:\Users\ZAL-05W\Desktop\RecyclerViewTrinity\app\build\intermediates\pre-dexed\debug\picasso-2.5.0-3b3001aba1f911d97f67d7cb4061da8338bfbd56.jar" />
+    </item>
+    <item
+        jar="C:\Users\ZAL-05W\Desktop\RecyclerViewTrinity\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="C:\Users\ZAL-05W\Desktop\RecyclerViewTrinity\app\build\intermediates\pre-dexed\debug\classes-5da54c445ed22eb4a4a53180be0b8ad42f58a05a.jar" />
+    </item>
+    <item
+        jar="D:\Zeta\android-sdk-windows\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Users\ZAL-05W\Desktop\RecyclerViewTrinity\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-20c9a3225f6b7922f948d07f30b1d2a3c0bec1cb.jar" />
+    </item>
+    <item
+        jar="C:\Users\ZAL-05W\Desktop\RecyclerViewTrinity\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Users\ZAL-05W\Desktop\RecyclerViewTrinity\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-d1f37b55b2f879638a578a39c80e431437fb959e.jar" />
+    </item>
+    <item
+        jar="C:\Users\ZAL-05W\Desktop\RecyclerViewTrinity\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Users\ZAL-05W\Desktop\RecyclerViewTrinity\app\build\intermediates\pre-dexed\debug\classes-0cdae9a19b32744fa10c4d01c12ab2f62ddbed49.jar" />
+    </item>
+
+</items>
