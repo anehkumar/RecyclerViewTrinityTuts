@@ -39,8 +39,6 @@
                     android:layout_margin="3dp"
                     android:src="@drawable/imgrestrinty" />
 
-
-
                 <TextView
                     android:id="@+id/tv_species"
                     android:layout_width="match_parent"
@@ -54,11 +52,6 @@
                     android:layout_alignParentBottom="true"
                     android:layout_alignParentRight="true"
                     android:layout_alignParentEnd="true" />
-
-
-
-
-
             </RelativeLayout>
         </FrameLayout>
     </LinearLayout>
